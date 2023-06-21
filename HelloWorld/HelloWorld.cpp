@@ -6,8 +6,10 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Hello World!" << std::endl;
-    std::cout << "C++ Compile -> object file create -> exe file create -> execute .exe file" << std::endl;
+    std::cout << "C++ Compile" << std::endl;
+    std::cout << "Object file Create" << std::endl;
+    std::cout << "Linker creates .exe executable files by linking object files and libraries" << std::endl;
+    std::cout << "execute .exe file" << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
