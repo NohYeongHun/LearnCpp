@@ -18,5 +18,11 @@
     <ClCompile Include="HelloWorld.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StandardC++17Test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StandardC++20Test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
