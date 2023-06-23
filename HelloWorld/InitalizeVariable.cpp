@@ -51,6 +51,7 @@ int main()
 
 	// int a, b = 5; // => wrong ( a is not initialized!)
 
+	// 사용되지 않은 초기화 된 변 수 및
 	
 
 	return 0;
