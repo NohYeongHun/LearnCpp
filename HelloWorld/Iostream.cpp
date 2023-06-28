@@ -27,7 +27,7 @@ int main()
 	/* std::endl vs '\n' 사용
 	* endl은 커서를 콘솔의 다음 줄로 이동 뒤 버퍼를 플러시
 	* \n은 주기적으로 플러시. => 더 효율적
-	*/ 
+	*/
 	std::cout << "diff std::endl vs \\n" << '\n';
 	std::cout << "x is equal to: " << x << '\n';
 	std::cout << "And that's all, folks\n!";
@@ -51,7 +51,8 @@ int main()
 	int x{}; // define variable x to hold user input
 	std::cin >> x; // get number from keyboard and store it in variable x
 	std::cout << "You entered " << x << '\n';
-	return 0;
+
+	std::cout << '\n';
 
 	return 0;
 }
