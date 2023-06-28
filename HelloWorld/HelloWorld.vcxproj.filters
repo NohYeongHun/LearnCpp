@@ -36,7 +36,10 @@
     <ClCompile Include="Iostream.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Literal.cpp">
+    <ClCompile Include="LiteralOperator.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter1Program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
